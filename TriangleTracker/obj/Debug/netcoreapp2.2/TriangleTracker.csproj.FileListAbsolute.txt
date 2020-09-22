@@ -1,0 +1,11 @@
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.csprojAssemblyReference.cache
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.csproj.CoreCompileInputs.cache
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.AssemblyInfoInputs.cache
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.AssemblyInfo.cs
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.deps.json
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.runtimeconfig.json
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.runtimeconfig.dev.json
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.dll
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.pdb
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.dll
+C:\Users\Durahand\desktop\Epicodus_Projects\C#\Triangle-Tracker.Solution\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.pdb
